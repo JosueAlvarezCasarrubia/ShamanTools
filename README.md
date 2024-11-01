@@ -3,9 +3,9 @@
 **Taller 6 – Diseño de un Programa**
 
 
-**Universidad Pontificia Bolivariana – Seccional Montería **
+**Universidad Pontificia Bolivariana – Seccional Montería**
 
-**Escuela de Ingenierías y Arquitectura **
+**Escuela de Ingenierías y Arquitectura**
 
 **Curso:** PROGRAMACIÓN Y ALGORITMIA
 
