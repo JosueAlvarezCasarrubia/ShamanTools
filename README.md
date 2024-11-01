@@ -38,7 +38,7 @@
  - **email:** juan.wiltoncha@upb.edu.co 
  - **Usuario GitHub:** AmpiWilton
 
-**--------------------------------------------**
+**--------------------------------------------------**
 
 La tienda de materiales "Shaman Tools" se dedica a la venta de productos y materiales de construcción. Con el fin de optimizar la gestión de su inventario y mejorar la eficiencia en sus operaciones diarias, la tienda ha decidido implementar un sistema de inventario que permita gestionar tanto la venta de productos como la administración de usuarios.
 La falta de un sistema eficiente de inventario para esta organización puede llevar a errores en la gestión de inventarios, confusiones en las ventas y un mal seguimiento de los productos disponibles. Por lo tanto, es sumamente importante contar con un sistema que permita:
