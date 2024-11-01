@@ -1,5 +1,7 @@
 # ShamanTools
 
+1° DE NOVIEMBRE DE 2024
+
 **Taller 6 – Diseño de un Programa**
 
 
