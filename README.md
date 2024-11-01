@@ -32,7 +32,7 @@
 
 
 **Nombre completo:** Juan Pablo Wilton Chávez 
-**ID:** 000524242
-**email:** juan.wiltoncha@upb.edu.co 
-**Usuario GitHub:** AmpiWilton
+ - **ID:** 000524242
+ - **email:** juan.wiltoncha@upb.edu.co 
+ - **Usuario GitHub:** AmpiWilton
 
